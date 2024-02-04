@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Python
+- 🤔 I’m looking for help with learning to code
+- - 💬 Ask me about Anime and Gaming
+
 <!--
 **Slush6755/Slush6755** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
